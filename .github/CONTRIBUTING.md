@@ -66,7 +66,7 @@ We provide an .editorconfig and eslint config for you to use, but generally:
 
 - No trailing whitespace, blank lines should have no whitespace.
 
-- Always favor strict equals `===` unless you *need* to use type coercion.
+- Always favor strict equals `===` unless you _need_ to use type coercion.
 
 - Follow conventions already in the code, and listen to eslint. Our config is set-up for a reason.
 
